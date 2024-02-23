@@ -1,0 +1,14 @@
+{
+  "name": "chapter-1-understanding-react",
+  "version": "1.0.0",
+  "description": "This is test react app to learn npm,parcel,webpack",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Neeshu aggarwal",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
+}
